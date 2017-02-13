@@ -1,5 +1,5 @@
--configuration:  
-  projectName: configclient
+configuration:  
+  projectName: configClient
 server:
   port: 8001
 message:
