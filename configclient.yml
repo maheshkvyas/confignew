@@ -1,4 +1,4 @@
-configuration:  
+-configuration:  
   projectName: configclient
 server:
   port: 8001
