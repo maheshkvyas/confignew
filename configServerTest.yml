@@ -1,1 +1,8 @@
+configuration: 
+  projectName: myconfigclient
 
+server:
+  port: 8002
+
+message:
+  greeting: Haan Bhai! Kya hal hai ???
